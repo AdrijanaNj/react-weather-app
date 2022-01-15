@@ -74,7 +74,7 @@ export default function Weather() {
       <footer className="mt-5">
         This project was coded by <span>Adrijana Njezic</span> and is{" "}
         <a
-          href="https://github.com/AdrijanaNj/weather-app-project"
+          href="https://github.com/AdrijanaNj/react-weather-app"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -82,7 +82,7 @@ export default function Weather() {
         </a>{" "}
         and{" "}
         <a
-          href="https://focused-roentgen-88efce.netlify.app"
+          href="https://boring-colden-9e1a1a.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
