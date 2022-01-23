@@ -138,6 +138,7 @@ footer a {
   line-height: 20px;
   text-align: center;
   color: rgba(39, 33, 66, 0.4);
+  margin-bottom: 10px;
 }
 .image-weather {
   display: block;
